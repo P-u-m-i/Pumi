@@ -37,3 +37,12 @@
   ad esempio se vuoi vedere i dati inseriti scrivi;
   
     SELECT * FROM nome-db;
+    
+# comandi node:
+
+  entra nella cartella db da terminale e digita:
+  
+      node . create-tables.sql
+  o
+  
+    node . delete-tables.sql
